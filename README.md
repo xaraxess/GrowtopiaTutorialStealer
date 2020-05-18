@@ -3,5 +3,5 @@ Hello, this source make for newbies on coding / want to make stealer don't make 
 
 <!-- FEATURES -->
 ## FEATURES
-Base64Encoding
-Discord Web Hook
+Base64Encoding -
+Discord Web Hook - Find save.dat if name changed
