@@ -1,0 +1,7 @@
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\fudstealer.exe.config
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\fudstealer.exe
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\fudstealer.pdb
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\fudstealer.csprojAssemblyReference.cache
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\fudstealer.csproj.CoreCompileInputs.cache
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\fudstealer.exe
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\fudstealer.pdb

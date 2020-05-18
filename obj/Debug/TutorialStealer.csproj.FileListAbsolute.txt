@@ -1,0 +1,7 @@
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\TutorialStealer.exe.config
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\TutorialStealer.exe
+C:\Users\calibri\source\repos\fudstealer\bin\Debug\TutorialStealer.pdb
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\TutorialStealer.csprojAssemblyReference.cache
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\TutorialStealer.csproj.CoreCompileInputs.cache
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\TutorialStealer.exe
+C:\Users\calibri\source\repos\fudstealer\obj\Debug\TutorialStealer.pdb
